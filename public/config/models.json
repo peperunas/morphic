@@ -2,7 +2,7 @@
   "models": [
     {
       "id": "Pino",
-      "name": "pino",
+      "name": "pino-browser",
       "provider": "Ollama",
       "providerId": "ollama",
       "enabled": true,
